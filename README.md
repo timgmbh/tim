@@ -1,2 +1,2 @@
-![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![GitHub Stats](https://github.com/timgmbh/github-stats/blob/master/generated/overview.svg)
 hallo
